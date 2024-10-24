@@ -12,13 +12,13 @@ const Contact = () => {
 
                     <div className="contact__info">
                         <div className="contact__card">
-                            <i className="bx bx contact__card-icon"></i>
+                            <i className="bx bx-mail-send contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Email</h3>
                             <span className="contact__card-data">user@gmail.com</span>
 
                             <a
-                                href="mailto:berenice.briand02@gmail.com.com"
+                                href="mailto:berenice.briand.pro@gmail.com.com"
                                 className="contact__button"
                             >
                                 Write me {" "}
@@ -27,7 +27,7 @@ const Contact = () => {
                         </div>
 
                         <div className="contact__card">
-                            <i className="bx bx contact__card-icon"></i>
+                            <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Whatsapp</h3>
                             <span className="contact__card-data">01 02 03 04 05</span>
@@ -42,7 +42,7 @@ const Contact = () => {
                         </div>
 
                         <div className="contact__card">
-                            <i className="bx bx contact__card-icon"></i>
+                            <i className="bx bxl-messenger contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Messenger</h3>
                             <span className="contact__card-data">user.fb123</span>
@@ -57,6 +57,39 @@ const Contact = () => {
 
                 <div className="contact__content">
                     <h3 className="contact__title">Write me your project</h3>
+
+                    <form className="contact__form">
+                        <div className="contact__form-div">
+                            <label className="contact__form-tag">Name</label>
+                            <input
+                                type="text"
+                                name="name"
+                                className="contact__form-input"
+                                placeholder="Insert your name"
+                            />
+                        </div>
+
+                        <div className="contact__form-div">
+                            <label className="contact__form-tag">Mail</label>
+                            <input
+                                type="email"
+                                name="email"
+                                className="contact__form-input"
+                                placeholder="Insert your email"
+                            />
+                        </div>
+
+                        <div className="contact__form-div">
+                            <label className="contact__form-tag">Project</label>
+                            <textarea 
+                            name="project" 
+                            cols="30" 
+                            rows="10" 
+                            className="contact__form-input" 
+                            placeholder="Write your project"
+                            ></textarea>
+                        </div>
+                    </form>
                 </div>
             </div>
         </section>
