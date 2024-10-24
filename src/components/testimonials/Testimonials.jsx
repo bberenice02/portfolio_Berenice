@@ -18,8 +18,9 @@ const Testimonials = () => {
         <span className="section__subtitle">Testmonial</span>
 
         <Swiper className="testimonial__container"
-                slidesPerView={1}
-                spaceBetween={10}
+                loop={true}
+                grabCursor={true}
+                spaceBetween={24}
                 pagination={{
                   clickable: true,
                 }}
