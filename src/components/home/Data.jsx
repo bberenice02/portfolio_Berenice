@@ -58,7 +58,7 @@ const Data = () => {
             <h3 className="home__subtitle">
                 Étudiante Ingénieure en Informatique</h3>
             <p className="home__description">
-                Étudiante ingénieure en informatique à l'ENSIM, passionnée par le développement web et l'interaction personne-système, je possède une connaissance et une maîtrise de plusieurs langages de programmation et une expérience pratique en amélioration continue. Rigoureuse et autonome, je recherche des opportunités pour appliquer mes compétences dans des projets innovants et collaboratifs</p>
+                Passionnée par le développement web et l'interaction personne-système, je possède une connaissance et une maîtrise de plusieurs langages de programmation et une expérience pratique en amélioration continue. Rigoureuse et autonome, je recherche des opportunités pour appliquer mes compétences dans des projets innovants et collaboratifs</p>
             <a href="#contact" className="button button--flex">
                 Say Hello
                 <svg
