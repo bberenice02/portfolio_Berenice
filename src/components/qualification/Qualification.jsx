@@ -49,10 +49,10 @@ const Qualification = () => {
                     >
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Design</h3>
-                                <span className="qualification__subtitle">Spain - Institute</span>
+                                <h3 className="qualification__title">Cycle Ingénieur - Informatique Sécialité IPS</h3>
+                                <span className="qualification__subtitle">ENSIM - Le Mans</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2022 - Aujourd'hui
                                 </div>
                             </div>
 
@@ -71,15 +71,15 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Art Director</h3>
-                                <span className="qualification__subtitle">Spain - Institute</span>
+                                <h3 className="qualification__title">Classe Préparatoire Intégrée</h3>
+                                <span className="qualification__subtitle">ENSIM - Le Mans</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                                    <i className="uil uil-calendar-alt"></i> 2020 - 2022
                                 </div>
                             </div>
                         </div>
 
-                        <div className="qualification__data">
+                        {/*<div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Web Development</h3>
                                 <span className="qualification__subtitle">Spain - Institute</span>
@@ -109,7 +109,7 @@ const Qualification = () => {
                                     <i className="uil uil-calendar-alt"></i> 2017 - 2018
                                 </div>
                             </div>
-                        </div>
+                        </div>*/}
                     </div>
 
                     <div
@@ -121,12 +121,12 @@ const Qualification = () => {
                     >
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Product Designer</h3>
-                                <span className="qualification__subtitle">Microsoft - Spain
+                                <h3 className="qualification__title">Bénévolat à l'étranger</h3>
+                                <span className="qualification__subtitle">Ferme Biologique Cornouaille
 
                                 </span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> Juin - Août 2024
                                 </div>
                             </div>
 
@@ -145,20 +145,20 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">UX Design</h3>
-                                <span className="qualification__subtitle">Apple Inc - Spain</span>
+                                <h3 className="qualification__title">Stage Ouvrier</h3>
+                                <span className="qualification__subtitle">Lacroix electronics(49)</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                                    <i className="uil uil-calendar-alt"></i> Juillet 2023
                                 </div>
                             </div>
                         </div>
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Designer</h3>
-                                <span className="qualification__subtitle">Figma - Spain</span>
+                                <h3 className="qualification__title">Agent de Conditionnement des pommes</h3>
+                                <span className="qualification__subtitle">Pineau Fruits(49)</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2018 - 2020
+                                    <i className="uil uil-calendar-alt"></i> Été 2022 - 2021 - 2020
                                 </div>
                             </div>
 

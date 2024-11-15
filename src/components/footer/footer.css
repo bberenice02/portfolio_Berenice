@@ -34,6 +34,11 @@
     column-gap: 1.125rem;
 }
 
+.footer__contact {
+    display: flex;
+    justify-content: center;
+}
+
 .footer__social-link {
     background-color: var(--title-color);
     color: var(--container-color);

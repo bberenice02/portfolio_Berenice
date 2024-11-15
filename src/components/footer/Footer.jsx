@@ -16,12 +16,16 @@ const Footer = () => {
                         <a href="#portfolio" className="footer__link">Projects</a>
                     </li>
 
-                    <li>
+                    {/*<li>
                         <a href="#testimonials" className="footer__link">Testimonials</a>
-                    </li>
+                    </li>*/}
                 </ul>
 
-                <div className="footer__social">
+                <div className="footer__contact">
+                    <a href="mailto:berenice.briand.pro@gmail.com">berenice.briand.pro@gmail.com</a>
+                </div>
+
+                {/*<div className="footer__social">
                     <a href="https://www.instagram.com/" className="footer__social-link" target="_blank">
                         <i class="bx bxl-facebook"></i>
                     </a>
@@ -33,9 +37,12 @@ const Footer = () => {
                     <a href="https://github.com/" className="footer__social-link" target="_blank">
                         <i class="bx bxl-twitter"></i>
                     </a>
-                </div>
+                </div>*/}
 
-                <span className="footer__copy">&#169; Crypticalcoder. All rigths reserved</span>
+                
+
+
+                <span className="footer__copy">&copy; 2024 Bérénice Briand, inspiré du tutoriel de Crypticalcoder</span>
             </div>
         </footer>
     )
