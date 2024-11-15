@@ -1,9 +1,9 @@
 import Project1 from "../../assets/hypercube.jpg";
-import Project2 from "../../assets/work2.jpg";
+import Project2 from "../../assets/capIngenieuse.png";
 import Project3 from "../../assets/ARapp.png";
-import Project4 from "../../assets/work4.jpg";
-import Project5 from "../../assets/work5.jpg";
-import Project6 from "../../assets/work1.jpg";
+import Project4 from "../../assets/AndroidApp.png";
+import Project5 from "../../assets/VR.png";
+import Project6 from "../../assets/Linkterz.png";
 
 
 export const Data = [
