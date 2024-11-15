@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio_Berenice/static/css/main.d420394c.css",
+    "main.js": "/portfolio_Berenice/static/js/main.7cca35b9.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio_Berenice/static/js/453.acca0757.chunk.js",
+    "static/media/capIngenieuse.png": "/portfolio_Berenice/static/media/capIngenieuse.474252cf13075a0f670a.png",
+    "static/media/profile.jpg": "/portfolio_Berenice/static/media/profile.f5a384400edba296080d.jpg",
+    "static/media/ARapp.png": "/portfolio_Berenice/static/media/ARapp.bb80fdcf73f8cb326295.png",
+    "static/media/hypercube.jpg": "/portfolio_Berenice/static/media/hypercube.00a30571dea8b099c49f.jpg",
+    "static/media/AndroidApp.png": "/portfolio_Berenice/static/media/AndroidApp.8876e574b56d0e1bf4fb.png",
+    "static/media/Berenice-CV.pdf": "/portfolio_Berenice/static/media/Berenice-CV.adde93e08a2cb9b0f40b.pdf",
+    "static/media/about.jpg": "/portfolio_Berenice/static/media/about.9e33a9ce91132c7f6e97.jpg",
+    "static/media/VR.png": "/portfolio_Berenice/static/media/VR.2b79eff3a04fbc18c485.png",
+    "static/media/testimonial3.png": "/portfolio_Berenice/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/portfolio_Berenice/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/portfolio_Berenice/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/portfolio_Berenice/index.html",
+    "main.d420394c.css.map": "/portfolio_Berenice/static/css/main.d420394c.css.map",
+    "main.7cca35b9.js.map": "/portfolio_Berenice/static/js/main.7cca35b9.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio_Berenice/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d420394c.css",
+    "static/js/main.7cca35b9.js"
+  ]
+}
