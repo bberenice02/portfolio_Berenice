@@ -13,7 +13,7 @@ const Portfolio = () => {
     return (
         <section className="portfolio section" id="portfolio">
             <h2 className="section__title">Portfolio</h2>
-            <span className="section__subtitle">My projects</span>
+            <span className="section__subtitle">Mes projets</span>
 
             <div className="portfolio__container">
                 {Data.map(({ id, image, title, context, duration, technologies, description, role, results, skills }) => {
