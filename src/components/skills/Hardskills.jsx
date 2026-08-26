@@ -21,7 +21,7 @@ const Hardskills = () => {
 
             <div>
               <h3 className="skills__name">Outils et technologies</h3>
-              <span className="skills__level">Figma, Unity, Unreal Engine</span>
+              <span className="skills__level">Figma, Bubble.io, Unity, Unreal Engine</span>
             </div>
           </div>
 

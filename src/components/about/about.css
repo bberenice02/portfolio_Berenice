@@ -1,6 +1,6 @@
 .about__container {
     grid-template-columns: repeat(2, 1fr);
-    align-items: center;
+    align-items: flex-start;
     column-gap: 4rem;
 }
 
@@ -9,7 +9,7 @@
     width: 350px;
     border-radius: 1.5rem;
     justify-self: start;
-    align-self: center;
+    align-self: flex-start;
     margin-bottom: 0%;
 }
 
@@ -47,6 +47,14 @@
     margin-bottom: var(--mb-2-5);
 }
 
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: fit-content;
+}
+
 /*=================== BREAKPOINT =================*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -67,6 +75,8 @@
         text-align: center;
     }
 
+
+
     .about__info {
         justify-content: center;
     }
@@ -75,6 +85,7 @@
         padding: 0 5rem;
         margin-bottom: 2rem;
     }
+
 }
 
 /* For medium devices */
@@ -87,7 +98,7 @@
     .about__description {
         padding: 0;
     }
-    
+
 }
 
 /* For small devices */

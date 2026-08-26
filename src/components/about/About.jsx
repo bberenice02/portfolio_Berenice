@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Berenice-CV.pdf";
+import AboutImg from "../../assets/about2.jpg";
+import CV from "../../assets/CV 2026 - Bérénice Briand.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -16,12 +16,15 @@ const About = () => {
                 <div className="about__data">
                     
 
-                    <p className="about__description">Interessée par le développement web et l'interaction personne-système, je possède une connaissance et une maîtrise de plusieurs langages de programmation. Rigoureuse et autonome, je recherche des opportunités pour appliquer mes compétences dans des projets innovants et collaboratifs
+                    <p className="about__description">Diplômée de l’ENSIM en tant qu’Ingénieure Informatique, je me suis spécialisée en Interaction Personne-Système (IHM).<br />
+Ce qui me passionne, c'est de faire le lien entre la rigueur technique du développement et la sensibilité de l'UX/UI Design.<br />
+J'aime m'impliquer dans tout le cycle de vie d'un projet : participer au cadrage méthodologique, développer (notamment sur des technologies Front-End et Mobiles), tester, et résoudre les bugs pour livrer un produit concret et visuel.<br />
+Organisée, attentive et attachée au travail d'équipe, j’apprécie particulièrement les projets collaboratifs où l'on voit le fruit de notre travail se concrétiser.
                     </p>
 
                     <Info />
 
-                    <a download="" href={CV} className="button button--flex">Download CV
+                    <a download="CV_Berenice_Briand.pdf" href={CV} className="button button--flex">Download CV
                         <svg
                             class="button__icon"
                             xmlns="http://www.w3.org/2000/svg"

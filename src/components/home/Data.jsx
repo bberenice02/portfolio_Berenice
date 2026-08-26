@@ -56,9 +56,9 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className="home__subtitle">
-                Étudiante Ingénieure en Informatique</h3>
+                Ingénieure Informatique | Développeuse Full-Stack & Front-End | Spécialité IHM & UX/UI</h3>
             <p className="home__description">
-            Étudiante à l'ENSIM (École Nationale Supérieure d'ingénieur du Mans) en 5eme année. Actuellement en recherche d'un stage ingénieur pour la période de mars à août 2025 (6 mois)</p>
+            Actuellement en recherche d'un CDI / CDD, disponible imédiatement</p>
             {/*<a href="#contact" className="button button--flex">
                 Say Hello
                 <svg

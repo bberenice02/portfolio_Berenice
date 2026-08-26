@@ -52,7 +52,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">Cycle Ingénieur - Informatique Sécialité IPS</h3>
                                 <span className="qualification__subtitle">ENSIM - Le Mans</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Aujourd'hui
+                                    <i className="uil uil-calendar-alt"></i> 2022 - 2025
                                 </div>
                             </div>
 
@@ -119,6 +119,45 @@ const Qualification = () => {
                                 : "qualification__content"
                         }
                     >
+
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">CDI</h3>
+                                <span className="qualification__subtitle">Développeuse Bubble.io chez Evodev
+
+                                </span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i> Septembre 2025 - Avril 2026
+                                </div>
+                            </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
+                            <div></div>
+                            
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">Stage de fin d'études</h3>
+                                <span className="qualification__subtitle">Développeuse Bubble.io chez Evodev
+
+                                </span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i> Mars - Août 2025
+                                </div>
+                            </div>
+
+                        </div>
+
+
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Bénévolat à l'étranger</h3>

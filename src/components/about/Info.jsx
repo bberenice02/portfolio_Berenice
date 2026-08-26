@@ -13,8 +13,8 @@ const Info = () => {
         <i class='bx bx-heart about__icon' ></i>
         <h3 className="about__title">Hobbies</h3>       
         <span className="about__subtitle">Joue de l'alto depuis 2013<br /></span>        
-        <span className="about__subtitle">Orchestre symphonique de l’université depuis 2020<br /></span>        
-        <span className="about__subtitle">Bénévole dans l’association du Gala de l’école depuis mars 2023</span>
+        <span className="about__subtitle">Orchestre symphonique de l’université (2020-2025)<br /></span>        
+        <span className="about__subtitle">Bénévole dans l’association du Gala de l’école (mars 2023 - mars 2025)</span>
       </div>
 
       {/*<div className="about__box">

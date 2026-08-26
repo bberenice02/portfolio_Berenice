@@ -42,7 +42,7 @@ const Footer = () => {
                 
 
 
-                <span className="footer__copy">&copy; 2024 Bérénice Briand, inspiré du tutoriel de Crypticalcoder</span>
+                <span className="footer__copy">&copy; 2024, 2026 Bérénice Briand, inspiré du tutoriel de Crypticalcoder</span>
             </div>
         </footer>
     )
