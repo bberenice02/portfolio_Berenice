@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio_Berenice/static/css/main.3cc52ad7.css",
-    "main.js": "/portfolio_Berenice/static/js/main.77888a14.js",
+    "main.css": "/portfolio_Berenice/static/css/main.3a6b3e8e.css",
+    "main.js": "/portfolio_Berenice/static/js/main.a16d0e0a.js",
     "static/js/453.acca0757.chunk.js": "/portfolio_Berenice/static/js/453.acca0757.chunk.js",
+    "static/media/video_projetAR.mp4": "/portfolio_Berenice/static/media/video_projetAR.a3fda7d9e11c2d6d6d4a.mp4",
     "static/media/about2.jpg": "/portfolio_Berenice/static/media/about2.4a42822dd4fed8f7a08d.jpg",
     "static/media/capIngenieuse.png": "/portfolio_Berenice/static/media/capIngenieuse.474252cf13075a0f670a.png",
+    "static/media/SurferCo.svg": "/portfolio_Berenice/static/media/SurferCo.2d3c0dcc2b086f30f789c896c68fe195.svg",
     "static/media/profile.jpg": "/portfolio_Berenice/static/media/profile.f5a384400edba296080d.jpg",
     "static/media/ARapp.png": "/portfolio_Berenice/static/media/ARapp.bb80fdcf73f8cb326295.png",
     "static/media/hypercube.jpg": "/portfolio_Berenice/static/media/hypercube.00a30571dea8b099c49f.jpg",
     "static/media/AndroidApp.png": "/portfolio_Berenice/static/media/AndroidApp.8876e574b56d0e1bf4fb.png",
-    "static/media/CV 2026 - Bérénice Briand.pdf": "/portfolio_Berenice/static/media/CV 2026 - Bérénice Briand.f4830cc29c8c7ba16e37.pdf",
+    "static/media/CV - Bérénice Briand_softwareengineer.pdf": "/portfolio_Berenice/static/media/CV - Bérénice Briand_softwareengineer.fe89e4b46426f25f5b2e.pdf",
+    "static/media/linkterz_details.png": "/portfolio_Berenice/static/media/linkterz_details.25e02a93c42cbc496c82.png",
     "static/media/VR.png": "/portfolio_Berenice/static/media/VR.2b79eff3a04fbc18c485.png",
+    "static/media/gastronoMe.jpg": "/portfolio_Berenice/static/media/gastronoMe.86849c24cc15a92adf28.jpg",
     "static/media/testimonial3.png": "/portfolio_Berenice/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/testimonial2.png": "/portfolio_Berenice/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/portfolio_Berenice/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "static/media/logo-evodev1.png": "/portfolio_Berenice/static/media/logo-evodev1.6bccd9c03f112bbb7677.png",
     "index.html": "/portfolio_Berenice/index.html",
-    "main.3cc52ad7.css.map": "/portfolio_Berenice/static/css/main.3cc52ad7.css.map",
-    "main.77888a14.js.map": "/portfolio_Berenice/static/js/main.77888a14.js.map",
+    "main.3a6b3e8e.css.map": "/portfolio_Berenice/static/css/main.3a6b3e8e.css.map",
+    "main.a16d0e0a.js.map": "/portfolio_Berenice/static/js/main.a16d0e0a.js.map",
     "453.acca0757.chunk.js.map": "/portfolio_Berenice/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cc52ad7.css",
-    "static/js/main.77888a14.js"
+    "static/css/main.3a6b3e8e.css",
+    "static/js/main.a16d0e0a.js"
   ]
 }
