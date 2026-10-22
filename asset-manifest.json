@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_Berenice/static/css/main.6b0f0c3e.css",
-    "main.js": "/portfolio_Berenice/static/js/main.a16d0e0a.js",
+    "main.js": "/portfolio_Berenice/static/js/main.b0c04df5.js",
     "static/js/453.acca0757.chunk.js": "/portfolio_Berenice/static/js/453.acca0757.chunk.js",
     "static/media/video_projetAR.mp4": "/portfolio_Berenice/static/media/video_projetAR.a3fda7d9e11c2d6d6d4a.mp4",
     "static/media/about2.jpg": "/portfolio_Berenice/static/media/about2.4a42822dd4fed8f7a08d.jpg",
@@ -20,11 +20,11 @@
     "static/media/testimonial1.png": "/portfolio_Berenice/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolio_Berenice/index.html",
     "main.6b0f0c3e.css.map": "/portfolio_Berenice/static/css/main.6b0f0c3e.css.map",
-    "main.a16d0e0a.js.map": "/portfolio_Berenice/static/js/main.a16d0e0a.js.map",
+    "main.b0c04df5.js.map": "/portfolio_Berenice/static/js/main.b0c04df5.js.map",
     "453.acca0757.chunk.js.map": "/portfolio_Berenice/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0f0c3e.css",
-    "static/js/main.a16d0e0a.js"
+    "static/js/main.b0c04df5.js"
   ]
 }
