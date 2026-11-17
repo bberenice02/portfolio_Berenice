@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_Berenice/static/css/main.6b0f0c3e.css",
-    "main.js": "/portfolio_Berenice/static/js/main.b0c04df5.js",
+    "main.js": "/portfolio_Berenice/static/js/main.24375c8d.js",
     "static/js/453.acca0757.chunk.js": "/portfolio_Berenice/static/js/453.acca0757.chunk.js",
     "static/media/video_projetAR.mp4": "/portfolio_Berenice/static/media/video_projetAR.a3fda7d9e11c2d6d6d4a.mp4",
     "static/media/about2.jpg": "/portfolio_Berenice/static/media/about2.4a42822dd4fed8f7a08d.jpg",
@@ -11,7 +11,7 @@
     "static/media/ARapp.png": "/portfolio_Berenice/static/media/ARapp.bb80fdcf73f8cb326295.png",
     "static/media/hypercube.jpg": "/portfolio_Berenice/static/media/hypercube.00a30571dea8b099c49f.jpg",
     "static/media/AndroidApp.png": "/portfolio_Berenice/static/media/AndroidApp.8876e574b56d0e1bf4fb.png",
-    "static/media/CV - Bérénice Briand_softwareengineer.pdf": "/portfolio_Berenice/static/media/CV - Bérénice Briand_softwareengineer.fe89e4b46426f25f5b2e.pdf",
+    "static/media/CV_Consultante_fonctionnelle_V7.pdf": "/portfolio_Berenice/static/media/CV_Consultante_fonctionnelle_V7.0514f91bd9fcc964664f.pdf",
     "static/media/linkterz_details.png": "/portfolio_Berenice/static/media/linkterz_details.25e02a93c42cbc496c82.png",
     "static/media/VR.png": "/portfolio_Berenice/static/media/VR.2b79eff3a04fbc18c485.png",
     "static/media/gastronoMe.jpg": "/portfolio_Berenice/static/media/gastronoMe.86849c24cc15a92adf28.jpg",
@@ -20,11 +20,11 @@
     "static/media/testimonial1.png": "/portfolio_Berenice/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolio_Berenice/index.html",
     "main.6b0f0c3e.css.map": "/portfolio_Berenice/static/css/main.6b0f0c3e.css.map",
-    "main.b0c04df5.js.map": "/portfolio_Berenice/static/js/main.b0c04df5.js.map",
+    "main.24375c8d.js.map": "/portfolio_Berenice/static/js/main.24375c8d.js.map",
     "453.acca0757.chunk.js.map": "/portfolio_Berenice/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0f0c3e.css",
-    "static/js/main.b0c04df5.js"
+    "static/js/main.24375c8d.js"
   ]
 }
